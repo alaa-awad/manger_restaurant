@@ -1,0 +1,107 @@
+{
+  "counters_message" : "أضغط على الزر عدة مرات :",
+  "Home_Page" : "الصفحة الرئيسية",
+  "Navigated_button" : "أضغط هنا",
+
+  "_comment onBoarding": "all text in page onBoarding",
+  "onboard_1_body" : "ابقى على اطلاع بتوزيع نوبات عملك",
+  "onboard_2_body" : "ابقى على اطلاع بيوم عطلتك",
+  "onboard_3_body" : "ابقى على اطلاع باخر الاخبار والقوانين",
+  "onboard_1_title" : "نوبات العمل",
+  "onboard_2_title" : "أيام العطل",
+  "onboard_3_title" : " الاخبار والقوانين",
+  "onboard_3_button_skip" : "تخطي",
+  "onboard_3_button_start" : "البدء",
+
+  "_comment LogIn": "all text in page LogIn",
+  "LogIn_title" : "أهلا بعودتك !",
+  "LogIn_body" : "أدخل بحسابك الموجود على برنامج إدارة المطعم",
+  "LogIn_email_controller_validate_isEmpty" : "الرجاء ادخال ايميلك",
+  "LogIn_email_textFiled_hint" : "الايميل",
+  "LogIn_password_controller_validate_isEmpty" : "الرجاء ادخال كلمة السر",
+  "LogIn_password_textFiled_hint" : "كلمة السر",
+  "LogIn_button_text" : "تسجيل الدخول",
+
+  "_comment title of page layout": "all  title of page layout",
+  "HomePage_title" : "الصفحة الرئيسية",
+  "Feeds_title" : "المنشورات",
+  "Chats_title" : "الدردشات",
+  "Setting_title" : "الأعدادات",
+
+
+  "_comment add user": "all text in add user screen",
+  "Add_user_title" : "إضافة مستخدم",
+  "add_user_password_controller_validate_isWeek" : " كلمة السر الخاصة بك ضعيفة يجي ادخال خمس احرف على الاقل",
+  "Add_user_label_name" : "اسم المستخدم",
+  "Add_user_validate_name" : "الرجاء ادخال اسم المستخدم",
+  "Add_user_label_email" : "ايميل المستخدم",
+  "Add_user_validate_email" : "الرجاء ادخال ايميل المستخدم",
+  "Add_user_label_password" : "كلمة سر المستخدم",
+  "Add_user_validate_password" : "الرجاء ادخال كلمة سر المستخدم",
+  "Add_user_label_phone" : "رقم هاتف المستخدم",
+  "Add_user_validate_phone" : "الرجاء ادخال رقم هاتف المستخدم",
+  "Add_user_text_button" : "إضافة مستخدم",
+  "Add_user_radio_text" : "نوع المستخدم :",
+  "Add_user_radio_text_user" : "مستخدم",
+  "Add_user_radio_text_admin" : "مدير",
+  "Add_user_radio_text_supervisor" : "مشرف",
+
+  "_comment add post": "all text in add post screen",
+  "Add_post_appBar_title" : "إنشاء منشور",
+  "Add_post_type_user_title" : "عام",
+  "Add_post_textButton_title" : "انشر",
+  "Add_post_textFormFiled_hint" : "ما الذي تفكر به ...",
+  "Add_post_button_addPhoto_title" : "إظافة صورة",
+  "Add_post_button_addTag_title" : "# تاغ",
+
+  "_comment Feeds": "all text in add Feeds screen",
+  "feeds_screen_add_post_card_title" : "ما الذي تفكر به ...؟",
+
+  "_comment ChatDetails": "all text in add ChatDetails screen",
+  "ChatDetails_screen_textFiled_hint" : "مراسلة",
+
+  "_comment ChatScreen": "all text in add ChatDetails screen",
+  "Chat_screen_chat_group_name" : "مجموعة العمل",
+
+  "_comment SettingScreen": "all text in add Setting screen",
+  "Setting_screen_button_change_password" : "تغيير كلمة السر",
+  "Setting_screen_button_LogOut" : "تسجيل الخروج",
+
+  "_comment ChangePasswordScreen": "all text in add ChangePassword screen",
+  "ChangePassword_screen_textFiled_oldPassword" : "أدخل كلمة السر القديمة",
+  "ChangePassword_screen_textFiled_newPassword" : "أدخل كلمة السر الجديدة",
+  "ChangePassword_screen_textFiled_confirmPassword" : "أكد كلمة السر الجديدة",
+  "ChangePassword_screen_button_change_password" : "تغيير كلمة السر",
+
+  "_comment HomePageScreen": "all text in add HomePage screen",
+  "HomePageScreen_tittle_holidays_card" : "أيام العطل",
+  "HomePageScreen_tittle_work_shifts_card" : "نوبات العمل",
+  "HomePageScreen_tittle_workers_card" : "قائمة العمال",
+
+  "_comment Function Coming Soon": "Function Coming Soon",
+  "Function_Coming_Soon" : "اسف هذه الخدمة سوف تأتي قي الأصدار القادم",
+
+  "_comment Add WorkShift Screen": "all text in Add WorkShift Screen",
+  "Add_WorkShift_Screen_title_page" : "أضف نوبة عمل جديدة",
+  "Add_WorkShift_Screen_textFiled_title_text" : "اسم نوبة العمل",
+  "Add_WorkShift_Screen_textFiled_title_validate" : "الرجاء أدخال اسم نوبة العمل",
+  "Add_WorkShift_Screen_textFiled_began_date_text" : "تاريخ بداية نوبة العمل",
+  "Add_WorkShift_Screen_textFiled_began_date_validate" : "الرجاء أدخال تاريخ بداية نوبة العمل",
+  "Add_WorkShift_Screen_textFiled_end_date_text" : "تاريخ نهاية نوبة العمل",
+  "Add_WorkShift_Screen_textFiled_end_date_validate" : "الرجاء أدخال تاريخ نهاية نوبة العمل",
+  "Add_WorkShift_Screen_button_add_workShift" : "حفظ",
+
+  "_comment Add Holiday Screen": "all text in Add Holiday Screen",
+  "Add_Holiday_Screen_title_page" : "أضف يوم عطلة جديد",
+  "Add_Holiday_Screen_textFiled_date" : "تاريخ يوم العطلة",
+  "Add_Holiday_Screen_textFiled_dateFinish" : "تاريخ انتهاء يوم العطلة",
+  "Add_Holiday_Screen_textFiled_date_validate" : "الرجاء ادخال تاريخ يوم العطلة",
+  "Add_Holiday_Screen_button_add_Holiday" : "حفظ",
+
+  "_comment Holidays Screen": "all text in Add Holiday Screen",
+  "Holidays_Screen_text_dateFinishHoliday" : "العطلة سوف تنتهي في  ",
+
+  "_comment update user": "all text in update user screen",
+  "Update_user_title" : "تعديل معلومات المستخدم",
+  "Update_user_button" : "تعديل"
+}

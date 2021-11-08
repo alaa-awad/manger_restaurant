@@ -1,0 +1,104 @@
+{
+
+  "_comment onBoarding": "all text in page onBoarding",
+  "onboard_1_body" : "Stay informed of work shift distribution",
+  "onboard_2_body" : "Stay informed of your holidays",
+  "onboard_3_body" : "Stay informed of the latest news and laws",
+  "onboard_1_title" : "Work shift",
+  "onboard_2_title" : "Holiday",
+  "onboard_3_title" : "News and laws",
+  "onboard_3_button_skip" : "Skip",
+  "onboard_3_button_start" : "Start",
+
+  "_comment LogIn": "all text in page LogIn",
+  "LogIn_title" : "Welcome Back!",
+  "LogIn_body" : "Log in your existent account of Manger Restaurant App",
+  "LogIn_email_controller_validate_isEmpty" : "please enter your email address",
+  "LogIn_email_textFiled_hint" : "Email",
+  "LogIn_password_controller_validate_isEmpty" : "please enter your password ",
+  "LogIn_password_controller_validate_isWeek" : " ",
+  "LogIn_password_textFiled_hint" : "Password",
+  "LogIn_button_text" : "Log In",
+
+  "_comment title of page layout": "all  title of page layout",
+  "HomePage_title" : "Home Page",
+  "Feeds_title" : "Feeds",
+  "Chats_title" : "Chats",
+  "Setting_title" : "Setting",
+
+  "_comment add user": "all text in add user screen",
+  "Add_user_title" : "Add User",
+  "add_user_password_controller_validate_isWeek" : "your password is week ,please enter at least 5 characters",
+  "Add_user_label_name" : "User Name",
+  "Add_user_validate_name" : "please enter user name",
+  "Add_user_label_email" : "User Email",
+  "Add_user_validate_email" : "please enter user email",
+  "Add_user_label_password" : "User password",
+  "Add_user_validate_password" : "please enter user password",
+  "Add_user_label_phone" : "User Phone",
+  "Add_user_validate_phone" : "please enter user phone",
+  "Add_user_radio_text" : "Type user :",
+  "Add_user_radio_text_user" : "user",
+  "Add_user_radio_text_admin" : "admin",
+  "Add_user_radio_text_supervisor" : "supervisor",
+
+
+  "_comment add post": "all text in add post screen",
+  "Add_post_appBar_title" : "Create Post",
+  "Add_post_type_user_title" : "Public",
+  "Add_post_textButton_title" : "post",
+  "Add_post_textFormFiled_hint" : "What is in your mind ...",
+  "Add_post_button_addPhoto_title" : "Add Photo",
+  "Add_post_button_addTag_title" : "# tag",
+
+  "_comment Feeds": "all text in add Feeds screen",
+  "feeds_screen_add_post_card_title" : "What\\'s on your mind?",
+
+  "_comment ChatDetails": "all text in add ChatDetails screen",
+  "ChatDetails_screen_textFiled_hint" : "Message",
+
+  "_comment ChatScreen": "all text in add ChatDetails screen",
+  "Chat_screen_chat_group_name" : "group Work",
+
+  "_comment SettingScreen": "all text in add Setting screen",
+  "Setting_screen_button_change_password" : "Change password",
+  "Setting_screen_button_LogOut" : "Log Out",
+
+  "_comment ChangePasswordScreen": "all text in add ChangePassword screen",
+  "ChangePassword_screen_textFiled_oldPassword" : "Enter your old password",
+  "ChangePassword_screen_textFiled_newPassword" : "Enter your new password",
+  "ChangePassword_screen_textFiled_confirmPassword" : "Confirm the new password",
+  "ChangePassword_screen_button_change_password" : "Change password",
+
+  "_comment HomePageScreen": "all text in add HomePage screen",
+  "HomePageScreen_tittle_holidays_card" : "Holidays",
+  "HomePageScreen_tittle_work_shifts_card" : "Work Shifts",
+  "HomePageScreen_tittle_workers_card" : "List of Workers",
+
+  "_comment Function Coming Soon": "Function Coming Soon",
+  "Function_Coming_Soon" : "Sorry this service will coming soon in next version",
+
+  "_comment Add WorkShift Screen": "all text in Add WorkShift Screen",
+  "Add_WorkShift_Screen_title_page" : "Add new work shift",
+  "Add_WorkShift_Screen_textFiled_title_text" : "Name of work shift",
+  "Add_WorkShift_Screen_textFiled_title_validate" : "please enter name to work shift",
+  "Add_WorkShift_Screen_textFiled_began_date_text" : "Began date of work shift",
+  "Add_WorkShift_Screen_textFiled_began_date_validate" : "please enter began date to work shift",
+  "Add_WorkShift_Screen_textFiled_end_date_text" : "End date of work shift",
+  "Add_WorkShift_Screen_textFiled_end_date_validate" : "please enter end date to work shift",
+  "Add_WorkShift_Screen_button_add_workShift" : "Save",
+
+  "_comment Add Holiday Screen": "all text in Add Holiday Screen",
+  "Add_Holiday_Screen_title_page" : "Add new Holiday",
+  "Add_Holiday_Screen_textFiled_date" : "date to holiday",
+  "Add_Holiday_Screen_textFiled_dateFinish" : "date to holiday",
+  "Add_Holiday_Screen_textFiled_date_validate" : "please enter date to holiday",
+  "Add_Holiday_Screen_button_add_Holiday" : "Save",
+
+  "_comment Holidays Screen": "all text in Add Holiday Screen",
+  "Holidays_Screen_text_dateFinishHoliday" : "The holiday will finish at ",
+
+  "_comment update user": "all text in update user screen",
+  "Update_user_title" : "Update User information",
+  "Update_user_button" : "Update"
+}
